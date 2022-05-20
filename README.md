@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Joice Ferreira 👋
 
 - 👩🏾‍🎓 Engenheira, especialista em Gerenciamento de Projetos
-- 🌱 Estudante de programação
+- 🌱 Estudante de programação Full Stack na RECODE PRO
 - 📚 Scrum Master em desenvolvimento
 - 📫 Contate-me no e-mail: eng.joiceferreira@gmail.com
 - 😄 Pronomes: Ela/ Dela
