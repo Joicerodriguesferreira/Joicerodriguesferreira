@@ -1,6 +1,7 @@
 ### Olá! Eu sou a Joice Ferreira 👋
 
 - 👩🏾‍🎓 Engenheira, especialista em Gerenciamento de Projetos
+- 👩‍💻 Graduanda em Análise e Desenvolvimento de Sistemas na Newton Paiva
 - 🌱 Estudante de programação Full Stack na RECODE PRO
 - 📫 Contate-me no e-mail: eng.joiceferreira@gmail.com
 - 😄 Pronomes: Ela/ Dela
