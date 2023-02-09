@@ -2,7 +2,7 @@
 
 - 👩🏾‍🎓 Engenheira, especialista em Gerenciamento de Projetos
 - 👩‍💻 Graduanda em Análise e Desenvolvimento de Sistemas pela Newton Paiva
-- 🌱 Estudante de programação Full Stack na RECODE PRO
+- 🌱 Desenvolvedora Full Stack Jr formada pela RECODE PRO
 - 📫 Contate-me no e-mail: eng.joiceferreira@gmail.com
 - 😄 Pronomes: Ela/ Dela
 
